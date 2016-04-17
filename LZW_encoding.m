@@ -1,3 +1,7 @@
+% Created by Chandrahas Tirumalasetty 10-March-2016
+% licensed under The MIT License (MIT)
+% Copyright (c) 2016 Chandrahas Tirumalasetty
+% Visit https://opensource.org/licenses/mit-license.php
 clc;
 clear all;
 icode=input('Enter array of integers as row matrix:');
